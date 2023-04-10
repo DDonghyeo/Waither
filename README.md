@@ -1,4 +1,6 @@
 # Waither-BE
+![Symbol](https://user-images.githubusercontent.com/98632435/230886907-37b9e966-cdd8-4714-bbb1-3546d718302e.jpg)
+![포스터 디자인](https://user-images.githubusercontent.com/98632435/230887016-d44260d1-ee8e-47b6-97a2-ed14fc398a22.jpg)
 ## Commit Message Convention
 
 |    Type     | Description  |
@@ -22,3 +24,12 @@ Dependencies
 - MySQL Driver
 - Spring Security
 - DevTools
+
+
+- I/A & Flow Chart
+[Waither IA.pdf](https://github.com/DDonghyeo/Waither/files/11189940/Waither.IA.pdf)
+
+- Sample Images
+- <img width="375" alt="settings-user data" src="https://user-images.githubusercontent.com/98632435/230887241-8ea9d3ba-b66b-4730-a53d-2c80fcab08ca.png">
+- <img width="375" alt="settings-wind" src="https://user-images.githubusercontent.com/98632435/230887282-6ebb8705-98bb-414f-b96b-8ca4c3a2a075.png">
+- <img width="375" alt="main-3" src="https://user-images.githubusercontent.com/98632435/230887351-160df1b6-1721-4d88-bdda-9353cb64843c.png">
